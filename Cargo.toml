@@ -49,6 +49,8 @@ opt-level = 3
 opt-level = 3
 [profile.release.package.brotli-decompressor]
 opt-level = 3
+[profile.release.package.deno]
+opt-level = 3
 [profile.release.package.deno_core]
 opt-level = 3
 [profile.release.package.deno_runtime]
